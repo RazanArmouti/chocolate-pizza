@@ -93,6 +93,30 @@ footer div img{
     border-top:  silver;
     border-style:solid;
     z-index: 2; 
-    position: relative;
+    position: relative;}
   
 /* } we don not have time to complete this so we will stop here   */
+.container{
+
+    position: relative;
+    text-align: center;
+    color: rgb(12, 1, 1);
+}
+
+.list1{
+    position: absolute;
+    top: 30px;
+    left: 300px;;
+    line-height:2;
+
+
+
+
+}
+
+.list2{
+    position: absolute;
+    top: 30px;
+    right: 80px;
+    line-height:2;
+}
