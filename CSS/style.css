@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Oswald:wght@500;600&display=swap');
+html{
+    margin-left: 160px;
+}
+
+header{
+    display: grid;
+    grid-template-columns: 50px auto auto;
+    width: 900px;
+    border-bottom: rgb(192 192 192 / 54%);
+    border-style: solid;
+    width: 1077px;
+    border-block-width:0 10px;
+}
+
+
+}
+
+nav{
+    margin-left:355px;
+}
+ h1{
+    font-family: 'Lobster', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    padding-bottom: 4px;
+  
+    
+}
+ h6{
+    size: 9px;
+    color: silver;
+    font-size: small;
+}
+main div{
+    display: grid;
+    grid-template-columns: auto auto ;
+    width: 1080px;
+    margin-top: 30px;
+   
+
+}
+main div a{
+    color: silver;
+    text-decoration: none;
+    /* margin-left:400px; */
+    margin-left: 797px;
+    
+}
+body{
+    margin-left: 40px;
+    height: 1500px;
+    width: 900px;
+ 
+
+}
+ .images{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 1077px;
+    border-block-width:0 10px;
+    border-bottom: rgb(192 192 192 / 54%);
+    border-style: solid;
+    border-block-width:0 0px;
+    /* padding: 28px; */
+
+} 
+#venDiv{
+    /* border-top: silver; */
+    /* border-top: rgb(192 192 192 / 54%); */
+    /* border-style: solid; */
+    padding-top: 30px;
+    display: grid;
+    grid-template-columns: 80px auto auto;
+    /* border-block-width:0 10px; */
+  
+    
+
+
+}
+p{
+    text-indent: 3em;
+
+}
+
+h3{
+    font-weight: bold;
+   margin-bottom:10px;
+   font-family: cursive   ;
+   color: #534d4c;
+   
+}
+#btn{
+    background-color: #e04412f2;
+    border: none;
+    color: white;
+    width: 186px;
+    height: 57px;
+}
+footer div{
+    align-items: center;
+    align-content: center;
+     margin-top: 50px; 
+    width:900px;
+    margin-left: 450px;
+    
+   
+    
+}
+
+footer div img{
+    margin-left: 100px;  
+  
+    
+   
+}
+#lastH6{
+    margin-left: 25px;
+}
+ #lastDiv{
+  
+    width:1090px;
+  margin-left: 0px;
+    border-top:  silver;
+    border-style:solid;
+    z-index: 2; 
+    position: relative;}
+
+
+    h4 {
+        color: gray;
+        font-size: 21px;
+    }
+  
+#imgrss {
+    padding-left: 4px;
+}
+
+
+#imgsmall{
+padding-bottom: 25px;}
